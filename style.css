@@ -1,8 +1,13 @@
 body{
+    background-image: url("IMG_20210905_161853-Copy.png");
+    height: 50%;
+    background-position: center;
+    background-size: cover;
     background-color: aqua;
 }
 h1{
+    font-size: 20px;
     color: cornsilk;
     background-color: black;
-    padding: 40px 20px 30px 10;
-}
+    width: 75%;
+    text-align: justify;
