@@ -9,6 +9,5 @@ h1{
     font-size: 20px;
     color: cornsilk;
     background-color: black;
-    width: 75%;
-    text-align: justify;
+    width: fit-content;
 }
